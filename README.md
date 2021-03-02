@@ -1,4 +1,4 @@
-### "resume.pdf" is my resume.
+#### "resume.pdf" is my resume.
 
-#### Xiaowei Huang
-#### Harbin Institue of Technology
+#####   --Xiaowei Huang
+#####   --Harbin Institue of Technology
